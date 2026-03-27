@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find 'D:/upwork Projects/DataHierarchyPlug' -type f -name *)"
+    ]
+  }
+}
